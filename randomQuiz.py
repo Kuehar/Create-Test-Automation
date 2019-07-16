@@ -2,7 +2,8 @@
 # coding: UTF-8
 
 
-# randomQuiz.py -ランダムに問題と答えを並べて問題集と解答集を作る
+# randomQuiz.py -ランダムに問題と答えを並べて問題集と解答集を作る 
+# 詳しい解説はこれを見てね! https://qiita.com/KueharX/items/046d941bf3cd3f7fa675
 
 
 #問題と選択肢をシャッフルするためにrandomモジュールをインポート。
